@@ -5,3 +5,4 @@
 
 <hr>
 <h5>Have a good day</h5>
+<h6>Thank you for visiting<\h6>
